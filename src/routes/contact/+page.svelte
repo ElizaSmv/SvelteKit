@@ -6,14 +6,14 @@
 <h4>You can contact me via Telegram or using my phone number.</h4><br>
 <ul style="margin-block-start: 0;">
     <li><a href="https://t.me/eliza_smv" id="tg-link">
-        <img src ="./static/lib/images/telegram-logo.jpg" height="40px" alt="telegram"/></a> Telegram  .</li>
+        <img src ="{base}/lib/images/telegram-logo.jpg" height="40px" alt="telegram"/></a> Telegram  .</li>
     <li><a href="https://instagram.com/eliza_smv/" id="insta-link">
-        <img src ="./static/lib/images/inst.png" height="40px" alt="insta"/></a> Instagram  .</li>
+        <img src ="{base}/lib/images/inst.png" height="40px" alt="insta"/></a> Instagram  .</li>
     <li><a href="https://github.com/ElizaSmv" id="github-link">
-        <img src ="./static/lib/images/github.png" height="40px" alt="git"/></a> Github  .</li>
+        <img src ="{base}/lib/images/github.png" height="40px" alt="git"/></a> Github  .</li>
 </ul>
 <p></p>
-<p><img src ="./static/lib/images/phone.jpg" height="40px" alt="phone number"/>
+<p><img src ="{base}/lib/images/phone.jpg" height="40px" alt="phone number"/>
     My phone number: <a href="tel:+79774984921">8-977-498-49-21</a> </p>
 <p></p>
 
