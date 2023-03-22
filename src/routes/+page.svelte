@@ -1,4 +1,5 @@
 <script>
+	import {base} from "$app/paths";
 	import Meme from "../components/Meme.svelte";
 </script>
 
@@ -20,7 +21,7 @@
 		</div>
 		<div class="home-right flex items-center">
 			<div class="circle flex items-center" id="mainimage">
-				<img src="/lib/images/i.jpg" alt="me">
+				<img src="{base}/lib/images/i.jpg" alt="me">
 			</div>
 		</div>
 
