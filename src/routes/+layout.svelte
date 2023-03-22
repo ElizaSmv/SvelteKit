@@ -1,4 +1,6 @@
 <script>
+	export const prerender = true;
+
 	import Header from "../components/Header.svelte";
 	import Footer from "../components/Footer.svelte";
 	import '../styles.css';

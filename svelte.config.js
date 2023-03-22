@@ -12,9 +12,11 @@ const config = {
 		// adapter-auto only supports some environments, see https://kit.svelte.dev/docs/adapter-auto for a list.
 		// If your environment is not supported or you settled on a specific environment, switch out the adapter.
 		// See https://kit.svelte.dev/docs/adapters for more information photos adapters.
-		base: dev ? '' : '/SvelteKit',
-		adapter: adapter()
-	}
+		adapter: adapter(),
+		paths: {
+			base: dev ? '' : '/SvelteKit'
+		},
+	},
 };
 
 export default config;
