@@ -14,7 +14,7 @@ const config = {
 		// See https://kit.svelte.dev/docs/adapters for more information photos adapters.
 		adapter: adapter(),
 		paths: {
-			base: dev ? '' : 'https://github.com/ElizaSmv/SvelteKit/'
+			base: dev ? '' : 'https://github.com/ElizaSmv/SvelteKit'
 		},
 	},
 };
